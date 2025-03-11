@@ -1,6 +1,6 @@
-#ptint hhh
+#print hhh
 print("hhh")
-#ptint please
+#print please
 print("please")
-#huh?
-print("huh?")
+#print help
+print("help")
